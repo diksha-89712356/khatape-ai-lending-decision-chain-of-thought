@@ -6,7 +6,7 @@ Copy this into your GitHub repository description:  Fictional FinTech case study
 **A FinTech case study on when AI can give a quick answer and when it must show its working.**
 
 
-Author: [Your Name] · BBA (FinTech), Chitkara Business School · Tool: [ChatGPT / Claude] · [Month Year]
+Author: Diksha Aggarwal · BBA (FinTech), Chitkara Business School · Tool: [ChatGPT ] · 2026
 
 
 ## The case
